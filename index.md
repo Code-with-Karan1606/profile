@@ -1,123 +1,25 @@
 ---
 layout: default
 ---
+# PROFILE SUMMARY
+* Extensive experience in implementing Agile Scrum Methodology to improve communications between Engineering, Project Management, Application Development & Support
+* Impressive track record in project delivery, maintaining highest standards of quality & customer satisfaction across retail business and consumer space
+* Executed 15 projects in last 1 year with a team of 50+ members
+* Collaborated with leadership teams to evaluate technology challenges, defined new structures and evangelized technical & product innovation within the organization
+* Contributed towards driving growth with strategic initiatives & operational efficiencies; built networks, drove customer centricity & global outlook for clients across UK, US, and Germany
+* Agile Team Facilitator, led global teams to manage projects in multiple domains; executed projects involving Agile Scrum Core Values, product enhancement, development, support and maintenance within time, budget & quality parameters, as per project management & best practice guidelines
+* Steered New Age Digital Services, Agile Software Development, Customer Centricity, ITIL & Managed Services, Lean & Six Sigma, Pre-Sales & Support and Quality Management
+* Possess excellent strategic thinking, analytical and interpersonal skills; an effective communicator and team leader with skills in escalation management and conflict resolution
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# IT SKILLS
+    JIRA Administration | Confluence | Microsoft Office | Database Management |
+    Web Development | Publishing Tools | MS Project
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# CERTIFICATIONS
+* PMP Certification (Oct’20); Project Management Institute
+* PRINCE2 Agile® Foundation and Practitioner (Sep’20); Axelos
+* ITIL Foundation (Jun’20); Axelos
+* CSM (Jan’19) Awarded by Scrum Alliance
+* ACCP (Aptech Certified Computer Professional) (Oct’20); Aptech
+* JIRA Administration and Confluence (Nov’19); Udemy
+* MS Project (Nov’19); Udemy
