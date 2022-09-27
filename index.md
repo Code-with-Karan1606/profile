@@ -26,5 +26,3 @@ layout: default
 * MS Project (Nov’19); Udemy
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Code-with-Karan1606/profile)
-
-<center><img src="images/timeline.jpg"/></center>
