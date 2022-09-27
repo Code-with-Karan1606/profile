@@ -1,14 +1,5 @@
 title: <p align="center">Karan Pandey</p>
 logo: /assets/img/Profile.gif
-description:
-  <p align="center">
-  <a href="pdf/Resume_Karan.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/karan-pandey-pmp-itil-csm-prince2-agile-practitioner-bb8b6548/">LinkedIn</a> |
-  <a href="https://github.com/Code-with-Karan1606">GitHub</a>
-  
-  <br>   
-  Technical Program Manager, with 13 years’ rich experience with a strong record of contributions in managing IT projects, 
+description: Technical Program Manager, with 13 years’ rich experience with a strong record of contributions in managing IT projects, 
   delivery, invigorating businesses, heightening productivity, and streamlining systems & procedures while leading & implementing complex programs
-<br>
-  </p>
 theme: jekyll-theme-minimal
